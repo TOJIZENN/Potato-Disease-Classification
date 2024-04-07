@@ -1,5 +1,5 @@
 **Potato Disease Classification using Machine Learning**
-
+Dataset link= https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld
 **Project Overview:**
 
 In this project, a machine learning model was developed to classify whether a potato plant is suffering from early blight or late blight by analyzing images of its leaves. Early blight is caused by Alternaria solani, while late blight is caused by Phytophthora infestans, both of which can lead to significant yield losses in potato crops.
